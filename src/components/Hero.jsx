@@ -78,7 +78,7 @@ function Hero() {
             </a>
 
             <a
-              href="https://github.com"
+              href="https://github.com/rohindudeja"
               target="_blank"
               rel="noreferrer"
               className="px-8 py-3.5 border border-zinc-700 hover:border-cyan-500 text-white font-medium rounded-xl hover:bg-cyan-500/5 transition-all duration-300 hover:scale-[1.03]"

@@ -52,7 +52,7 @@ function Contact() {
 
             <div className="space-y-4">
               <a
-                href="mailto:rohindudeja@gmail.com"
+                href="mailto:rohindudeja40@gmail.com"
                 className="flex items-center gap-4 text-gray-300 hover:text-cyan-400 transition-colors duration-200 group"
               >
                 <div className="p-3 bg-zinc-800/50 rounded-xl group-hover:bg-cyan-500/10 border border-zinc-700/50 shrink-0">
@@ -60,12 +60,12 @@ function Contact() {
                 </div>
                 <div>
                   <span className="block text-xs text-gray-500 uppercase">Email</span>
-                  <span className="text-sm font-medium">rohindudeja@gmail.com</span>
+                  <span className="text-sm font-medium">rohindudeja40@gmail.com</span>
                 </div>
               </a>
 
               <a
-                href="https://linkedin.com/in/yourprofile"
+                href="https://linkedin.com/in/rohin-dudeja-7212a0364/"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 text-gray-300 hover:text-cyan-400 transition-colors duration-200 group"
@@ -75,12 +75,12 @@ function Contact() {
                 </div>
                 <div>
                   <span className="block text-xs text-gray-500 uppercase">LinkedIn</span>
-                  <span className="text-sm font-medium">linkedin.com/in/rohin-dudeja</span>
+                  <span className="text-sm font-medium">linkedin.com/in/rohin-dudeja-7212a0364/</span>
                 </div>
               </a>
 
               <a
-                href="https://github.com/yourprofile"
+                href="https://github.com/rohindudeja"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 text-gray-300 hover:text-cyan-400 transition-colors duration-200 group"
@@ -100,7 +100,7 @@ function Contact() {
                 </div>
                 <div>
                   <span className="block text-xs text-gray-500 uppercase">Location</span>
-                  <span className="text-sm font-medium">Patiala, Punjab, India</span>
+                  <span className="text-sm font-medium">Abohar, Punjab, India</span>
                 </div>
               </div>
             </div>

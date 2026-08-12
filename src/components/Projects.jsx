@@ -28,7 +28,7 @@ const projects = [
       "Scikit-Learn",
     ],
     image: "/amazon.png",
-    github: "https://github.com",
+    github: "https://github.com/rohindudeja/Amazon-Delivery-Risk-Prediction",
     demo: "https://github.com",
   },
 
@@ -43,7 +43,7 @@ const projects = [
       "Scikit-Learn"
     ],
     image: "/rul.png",
-    github: "https://github.com",
+    github: "https://github.com/rohindudeja/RUL-prediction-for-Engine",
     demo: "https://github.com",
   },
 ];

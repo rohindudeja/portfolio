@@ -4,8 +4,8 @@ import { FaCode, FaTrophy, FaLaptop, FaGraduationCap } from "react-icons/fa";
 const achievements = [
   {
     metric: "500+",
-    title: "DSA Problems Solved",
-    description: "Solved algorithmic problems across platforms like LeetCode and GeeksforGeeks, showcasing solid problem-solving skills.",
+    title: "DSA And DNMS Problems Solved",
+    description: "Solved algorithmic problems across platforms like LeetCode and CodeChef, showcasing solid problem-solving skills.",
     icon: <FaCode className="text-cyan-400 text-3xl" />,
   },
   {
@@ -21,7 +21,7 @@ const achievements = [
     icon: <FaLaptop className="text-teal-400 text-3xl" />,
   },
   {
-    metric: "9.09",
+    metric: "9.07",
     title: "Current CGPA",
     description: "Maintaining outstanding academic performance in Bachelor of Engineering, Computer Science at TIET.",
     icon: <FaGraduationCap className="text-purple-400 text-3xl" />,

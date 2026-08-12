@@ -34,7 +34,7 @@ function About() {
             <div className="pt-6 border-t border-zinc-800/80 mt-6 grid grid-cols-2 gap-4">
               <div>
                 <span className="block text-gray-500 text-xs uppercase tracking-wider">Location</span>
-                <span className="text-gray-300 font-medium">Patiala, India</span>
+                <span className="text-gray-300 font-medium">Abohar, Punjab, India</span>
               </div>
               <div>
                 <span className="block text-gray-500 text-xs uppercase tracking-wider">Education</span>
